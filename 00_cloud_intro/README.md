@@ -1,5 +1,16 @@
 # Cloud Introduction
 
+<a href="https://youtu.be/g-wRTFf6zuM" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/azure/intro_cloud.png?raw=true" alt="intro to cloud computing" width="600">
+</a>
+
+<br/>
+<br/>
+
+This course covers two major platforms
+- part1 - Databricks - a data platform that runs on top of a cloud
+- part2 - Azure - cloud provider 
+
 ## On-premises vs cloud IT services
 A company can hardly operate without various IT service components, which forms IT infrastructure of a company. Depending of the size of a company, the IT infrastructure can include various IT service components, and a data engineer can work with a smaller or larger part of the IT infrastructure. A data engineer should also understand basics of IT infrastructure as a datapipeline often involves integration of different components in a company's IT infrastructure.
 
