@@ -38,4 +38,5 @@ TODO: Short on description on
 
 
 ## Read More 👓
-
+[what is Databricks?](https://docs.databricks.com/aws/en/introduction/)
+[Databricks components](https://docs.databricks.com/aws/en/getting-started/concepts)
