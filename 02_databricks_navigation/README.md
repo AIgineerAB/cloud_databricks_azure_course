@@ -37,14 +37,21 @@ Data scientists and machine learning engineer can train, deploy and serve their 
 Enterprises can use Unity Catalog as a single tool to manage premissions for both data objects and models. 
 
 ## Databricks UI 
+Once you have signed up for the free edition of databricks, you can create and manage all resources in databricks through the web UI. Let's navigate through the UI to overview the major databricks resources:
 
-TODO: Short on description on 
-- workspace
-- catalog
-- jobs & pipelines
-- compute 
-- sql editor
-- dashboard 
+### Workspace
+
+### Catalog
+
+### Notebook
+
+### Jobs & pipelines
+
+### Compute 
+
+### Sql editor
+
+### Dashboard 
 
 
 ## Read More 👓
