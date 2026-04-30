@@ -22,15 +22,19 @@ Databricks is a unified data platform for building enterprise-level cloud infras
 </a>
 
 ### Data Lakehouse
-<!-- data lake + datawarehouse -->
+A data lakehouse merges the best of data lakes and data warehouses. While it allows enterprises to store raw data in its native format (like a data lake), it also enables the creation of delta tables, bringing warehouse-like advantages such as ACID transactions, schema enforcement, and fine-grained access control. 
+
 ### Data pipeline
-<!-- spark, sql, python -->
+Enterprises can run their data pipelines using databricks's computing resources. The ELT logic and orchestration can be defined using Spark and SQL with Lakeflow Spark Declarative Pipeline and Lakeflow Job. 
+
 ### Business Intelligence
-<!-- dashboard -->
+Dashboards can be created and shared to other users on databricks, allowing visualization to be hosted on the same platform as the data inputs to the visualization. 
+
 ### Data Science & AI
-<!-- machine learning, MLOps, AI, AIOps -->
+Data scientists and machine learning engineer can train, deploy and serve their classical ML and AI models using the computer resources in databricks. They are also able to manage the entire ML lifecycle with MLflow. 
+
 ### Data Governance
-<!-- unity catalog -->
+Enterprises can use Unity Catalog as a single tool to manage premissions for both data objects and models. 
 
 ## Databricks UI 
 
