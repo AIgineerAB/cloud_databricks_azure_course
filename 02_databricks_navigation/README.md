@@ -44,15 +44,15 @@ A workspace is a Databricks deployment in the cloud that acts as an environment 
 
 You can switch between different workspace environments by selecting a workspace on the upper right hand corner:
 
-<a>
-  <img src="https://github.com/kokchun/assets/blob/main/databricks/choose_workspace.png?raw=true" alt="intro to cloud computing" width="600">
-</a>
+
+<img src="https://github.com/kokchun/assets/blob/main/databricks/choose_workspace.png?raw=true" alt="intro to cloud computing" width="600">
+
 
 The workspace browser icon on the left sidebar will lead you to your workspace file system where you can store your files like scripts: 
 
-<a>
-  <img src="https://github.com/kokchun/assets/blob/main/databricks/workspace_browser.png?raw=true" alt="intro to cloud computing" width="600">
-</a>
+
+<img src="https://github.com/kokchun/assets/blob/main/databricks/workspace_browser.png?raw=true" alt="intro to cloud computing" width="600">
+
 
 ### Catalog
 Catalog is the place to organize your data assets in Databricks. You can create multiple catalogs and each catalog should represent a logical category of data. You can further isolate your data assets into schemas under a catalog, which are categories that are more granular than catalogs. Under a schema, you can store non-tabular data assets under Volumes and tables under Tables:
