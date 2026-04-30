@@ -14,17 +14,23 @@
 <br/>
 <br/>
 
-## What is databricks
+## Databricks Overview
+Databricks is a unified data platform for building enterprise-level cloud infrastrucutre, including components like data lakehouse, data pipeline, BI, data science/AI and data governance. It provides a collaborative workspace for data engineers, data analysts, data scientists, ML engineers, data owners and other data roles to develop and share in the same platform. 
 
-TODO: Short on description on 
-- unified data intelligence platform to process massive data
-- spark
-- sql
-- lakehouse -> datalake + data warehouse
-- unity catalog - unified governance layer
-- collaborative workspace
-- data engineering, machine learning, mlops, AI, AIOps 
-- lakeflow
+<a>
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/databricks_overview.png?raw=true" alt="intro to cloud computing" width="600">
+</a>
+
+### Data Lakehouse
+<!-- data lake + datawarehouse -->
+### Data pipeline
+<!-- spark, sql, python -->
+### Business Intelligence
+<!-- dashboard -->
+### Data Science & AI
+<!-- machine learning, MLOps, AI, AIOps -->
+### Data Governance
+<!-- unity catalog -->
 
 ## Databricks UI 
 
