@@ -12,4 +12,8 @@
 
 
 
+## Schema
+
+PySpark can infer the schema automatically, but is slower as it requires scanning the data and of course there's the risk of guessing wrong. Explicit schema is set using `StructType`. 
+
 ## Read more 👓
