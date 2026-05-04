@@ -90,5 +90,6 @@ You can use the SQL Editor in the UI to quickly run sql queries against your dat
 
 
 ## Read More 👓
-[what is Databricks?](https://docs.databricks.com/aws/en/introduction/)
+[What is Databricks?](https://docs.databricks.com/aws/en/introduction/)
+
 [Databricks components](https://docs.databricks.com/aws/en/getting-started/concepts)
