@@ -6,6 +6,20 @@ Introduction to medallion architecture
 - silver
 - gold 
 
+
+folder structure
+
+```md
+silver/
+├── fact_orders
+├── dim_customers
+└── dim_products
+
+gold/
+├── daily_sales_report
+└── customer_summary
+```
+
 ## Spark declarative pipelines 
 
 ## ETL pipelines in databricks

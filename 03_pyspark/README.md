@@ -1,15 +1,9 @@
 # Pyspark
 
 
-## TODO video 
-
-
-## TODO code on data processing with pyspark  
-
-- make sure to show both sql cells and python cells in the jupyter notebooks 
-- also use spark sql in 
-- do some visualizations and EDAs 
-
+<a href="https://youtu.be/oQtvq-EGelw" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/databricks_pyspark.png?raw=true" alt="pyspark intro" width="600">
+</a>
 
 
 ## PySpark dataframe
