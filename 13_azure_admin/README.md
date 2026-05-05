@@ -1,5 +1,25 @@
 
 # Managing Azure resources
+
+**part1 - Azure fundamentals**
+
+<a href="https://youtu.be/eVBC8DiR8N0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/azure/architecture.png?raw=true" alt="fundamentals azure architecture" width="600">
+</a>
+
+<br/>
+<br/>
+
+**part2 - Pricing models**
+
+<a href="https://youtu.be/Zwfguhx8Ufc" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/azure/scaling.png?raw=true" alt="scaling and pricing" width="600">
+</a>
+
+
+
+<br/>
+
 Image if you work alone and develop only locally on your laptop, your cost is the price of your laptop that you had paid. If your laptop is running scripts slowly, you can check things like the current usage of CPU and RAM to troubleshooting the performance issue. You do not need to worry about access control either as you are the only one who can open your laptop with your username and password. 
 
 But if your are using IT services via Azure, how do you manage you Azure resources, for instances, regarding access control, monitoring cost and performance?
@@ -95,4 +115,4 @@ IaC refers to writing codes to define and deploy resources, making it possible t
   - Terraform: a popular third-party, multi-cloud CLI tool for IaC. Unlike ARM templates and Bicep files which are Azure-specific, Terraform can manage infrastructure across multiple cloud providers (Azure, AWS & GCP)
   
 >[!Tip]
->Follow exercise 0.2 to explore interacting with Azure using Azure portal and create a resource group to include a VM as a resource. For subscription, you will be using the default subscription, *Azure for Students*, under your account. Note that there will be a guiding video on this exercise. So make sure you check out the file *exercise0_intro.md* for the video of this guiding exercise. 
+>Follow exercise 0.2 to explore interacting with Azure using Azure portal and create a resource group to include a VM as a resource. For subscription, you will be using the default subscription, *Azure for Students*, under your account. 

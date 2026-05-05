@@ -1,5 +1,9 @@
 # Introduction to Azure Cloud Platform
 
+<a href="https://youtu.be/eVBC8DiR8N0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/azure/architecture.png?raw=true" alt="azure fundamental architecture" width="600">
+</a>
+
 
 ## What does Azure provide? 
 As a cloud platform provider with big market shares, Azure is providing a wide range of IT services via internet, including servers, storage and networking etc. Compared to on-premises IT infrastructure, companies now share some of the responsibilities to set up and maintain its IT infrastructure with cloud platform provider as Azure. How much of the responsibilities are shared depends on whether an IT service is offered as IaaS, PaaS or SaaS. This way of categorizing IT services is called shared responsibility model:
@@ -38,7 +42,10 @@ The physical infrastructure of Azure are housed in buildings called datacenters.
 
 **Datacenter racks** ⤵
 
-<img src="../temp_figures/rack.png" width=250>
+
+<img src="https://github.com/kokchun/assets/blob/main/azure/rack.png?raw=true" alt="deata server racks" width="500">
+
+
 
 ### Regions
 A region is a geographical area that is composed of one or multiple datacenters that are close to each others. When creating an Azure resource, we often need to choose from which region we would like the resource to be created. Then Azure internally assigns workloads across datacenters in the region to ensure balanced workloads. 
@@ -135,9 +142,3 @@ On Azure, one can store different types of data with different Azure resources.
   is an *unified* data platform to combine distributed computing and storage optimal for big data analytics purposes. 
 
 
-## Videos to review some concepts 
-For slides used in these videos, you can find them attached under this lecture folder:
-
-<a href="https://youtu.be/eVBC8DiR8N0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/azure/architecture.png?raw=true" alt="DESCRIPTION" width="600">
-</a>

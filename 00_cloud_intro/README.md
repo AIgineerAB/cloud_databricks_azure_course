@@ -22,7 +22,8 @@ These laptops are connected to the two servers in a Local Area Network (LAN) so 
 
 The computers (hardware), applications for DB and web development installed on the computers (software), and networking devices connecting themselves and to the outside world form a simple example of IT infrastructure of this type of business. 
 
-![](../temp_figures/onprem_it.png)
+
+<img src="https://github.com/kokchun/assets/blob/main/azure/onprem_it.png?raw=true" alt="intro to cloud computing" width="500">
 
 
 ## Why do we need cloud platform?
@@ -37,7 +38,7 @@ For example, the company can alternatively set up a cloud IT infrastructure as b
 - **scalability and availability** <br>
   cloud providers maintain many server computers behind the scenes and are able to scale up their IT services flexibly. In this case, the capacity of the cloud and web servers can be adjusted according to realtime needs. Downtimes of the company's website can thus be prevented, without the company purchasing more capable computers that are left idle during off-peak hours when less customers are browsing the website. 
 
-![](../temp_figures/cloud_it.png)
+<img src="https://github.com/kokchun/assets/blob/main/azure/cloud_it.png?raw=true" alt="cloud platform" width="500">
 
 
 
