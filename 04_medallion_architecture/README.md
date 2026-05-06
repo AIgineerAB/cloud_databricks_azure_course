@@ -1,13 +1,9 @@
 # What is medallion architecture 
 
-Introduction to medallion architecture 
-
-- bronze
-- silver
-- gold 
+<img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_architecture_overview.png?raw=true" alt="intro to cloud computing" width="600">
 
 
-folder structure
+### folder structure
 
 ```md
 silver/
@@ -26,3 +22,6 @@ gold/
 
 
 ## Read more 👓
+[What is medallion architecture?](https://www.databricks.com/blog/what-is-medallion-architecture) <br>
+
+
