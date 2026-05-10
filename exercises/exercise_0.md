@@ -1,6 +1,6 @@
 # Exercise 0 - Cloud & Databricks Intro
 
-In this exercise, you will revise concepts of cloud and Databricks introduction covered in lectures 0 to 4.
+In this exercise, you will revise concepts of cloud and Databricks introduction covered in lectures 00 to 05.
 
 ## 1. Upload data files to Databricks
 
