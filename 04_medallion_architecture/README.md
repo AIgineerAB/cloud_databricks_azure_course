@@ -6,7 +6,15 @@
 </a>
 
 
+## Medallion architecture
+
+This image shows an overview of the medallion architecture. 
+
 <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_architecture_overview.png?raw=true" alt="intro to cloud computing" width="600">
+
+
+> [!NOTE]
+>  a common misconception about the medallion architecture is that it must compose of these three layers. In reality it should be much more flexible than that and should adapt to your specific business needs. It could for example just be two layers, or could be more than 3 layers.
 
 <!-- 
 ### Folder structure
