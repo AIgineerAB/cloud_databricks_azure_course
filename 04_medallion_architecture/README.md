@@ -8,8 +8,8 @@
 
 <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_architecture_overview.png?raw=true" alt="intro to cloud computing" width="600">
 
-
-### folder structure
+<!-- 
+### Folder structure
 
 ```md
 silver/
@@ -24,7 +24,7 @@ gold/
 
 ## Spark declarative pipelines 
 
-## ETL pipelines in databricks
+## ETL pipelines in databricks -->
 
 
 ## Read more 👓
