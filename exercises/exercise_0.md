@@ -36,6 +36,9 @@ Create a new notebook for EDA wit PySpark and:
 
 &nbsp; e) Show the top 10 accomodations with best reviews.
 
+&nbsp; f) Other EDAs of your choice
+
+
 ## 3. Theory questions
 
 &nbsp; a) Why enterprises are moving from on-premises to cloud IT infrastructure?
