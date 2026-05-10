@@ -12,7 +12,7 @@ Under your free edition workspace of Databricks, create the bronze layer of a me
 
 &nbsp; c) Create a _volume_, _csv_files_ and upload the csv file from Kaggle here
 
-&nbsp; d) Now create an ETL pipeline for SDP. This pipeline should be able to produce a streaming table under the same schema created in question b) above. Use pyspark for this. 
+&nbsp; d) Now create an ETL pipeline for SDP. This pipeline should be able to produce a streaming table under the same schema created in question b) above. Use pyspark for this.
 
 &nbsp; e) Recreate d) but using SQL isntead of pyspark.
 
@@ -37,7 +37,6 @@ Create a new notebook for EDA with PySpark:
 &nbsp; e) Show the top 10 accomodations with best reviews.
 
 &nbsp; f) Other EDAs of your choice
-
 
 ## 3. Theory questions
 
@@ -64,6 +63,14 @@ Fill in this table either by copying this into your own markdown file or copy it
 | 3 Vs of big data                    |             |
 | scalability                         |             |
 | availability                        |             |
-| lakeflow job                        |             |
+| lakeflow connect                    |             |
 | lakeflow spark declarative pipeline |             |
 | unity catalog                       |             |
+| data lakehouse                      |             |
+| delta table                         |             |
+| lakeflow jobs                       |             |
+| spark                               |             |
+| pyspark                             |             |
+| data intelligence platform          |             |
+|                                     |             |
+|                                     |             |
