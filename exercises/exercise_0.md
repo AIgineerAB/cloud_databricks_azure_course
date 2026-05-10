@@ -24,7 +24,7 @@ Under your free edition workspace of Databricks, create the bronze layer of a me
 
 Now, you have a table of Airbnb hosts data in your created catalog and schema. Let's understand the data a little bit before further processing the data.
 
-Create a new notebook for EDA wit PySpark and:
+Create a new notebook for EDA with PySpark:
 
 &nbsp; a) Show a histogram of numbers of reviews for each accomodation.
 
