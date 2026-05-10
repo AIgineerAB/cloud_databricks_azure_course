@@ -1,5 +1,11 @@
 # What is medallion architecture 
 
+
+<a href="https://youtu.be/u3MSka3WLpE" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_intro.png?raw=true" alt="medallion intro" width="600">
+</a>
+
+
 <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_architecture_overview.png?raw=true" alt="intro to cloud computing" width="600">
 
 
