@@ -38,7 +38,12 @@ Create a new notebook for EDA with PySpark:
 
 &nbsp; f) Other EDAs of your choice
 
-## 3. Theory questions
+
+## 3. More EDAs on supply chain data
+
+I have started a simple EDA on supply chain data in lecture 05_bronze. Before moving to the silver layer, it is good to know what type of transformations to do. It is then crucial to understand your data so perform a more comprehensive EDA here. 
+
+## 4. Theory questions
 
 &nbsp; a) Why enterprises are moving from on-premises to cloud IT infrastructure?
 
