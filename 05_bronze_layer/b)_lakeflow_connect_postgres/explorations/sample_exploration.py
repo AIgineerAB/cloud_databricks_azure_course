@@ -18,3 +18,4 @@ sys.path.append("/Workspace/Users/kokchungiang@gmail.com/cloud_databricks_azure_
 
 display(spark.sql("SELECT * FROM workspace.default.sample_aggregation_may_10_2121"))
 
+
