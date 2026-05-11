@@ -2,6 +2,31 @@
 
 In this exercise, you will revise concepts of cloud and Databricks introduction covered in lectures 00 to 05.
 
+## 0. More EDAs on Olympic data
+
+In lecture 03 we ingested Olympic data from Kaggle and did very simple EDA. Now create more EDAs there.
+
+&nbsp; a) Start with reading in the dataset into a dataframe using spark.
+
+&nbsp; b) Use spark columns method to find out the columns
+
+&nbsp; c) Find out the 10 oldest atheletes, their age and the sport
+
+&nbsp; d) Find out the 10 youngest atheletes, their age and the sport
+
+&nbsp; e) Find out the five sports with highest median age
+
+&nbsp; f) Find out the five sports with lowest median age
+
+&nbsp; g) Find out top 10 countries after number of gold medals
+
+&nbsp; h) Find out top 10 countries after number of medals
+
+&nbsp; i) Plot a time series line chart of number of female and male atheletes in same graph.
+
+&nbsp; j) Do more explorations on your own
+
+
 ## 1. Upload data files to Databricks
 
 Under your free edition workspace of Databricks, create the bronze layer of a medallion architecture for Airbnb accomodation data. You will be using a csv file of Airbnb accomodation data available in [Kaggle](https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata). Follow the steps below:
