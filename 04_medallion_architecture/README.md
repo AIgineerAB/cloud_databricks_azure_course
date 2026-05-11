@@ -6,7 +6,7 @@
 </a>
 
 
-## Medallion architecture
+## Medallion architecture 
 
 This image shows an overview of the medallion architecture. 
 
