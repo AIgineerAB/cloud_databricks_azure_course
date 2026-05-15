@@ -1,5 +1,16 @@
 # Bronze layer
 
+**Part 1 - theory**
+
+<a href="https://youtu.be/KZqE_xx_WMA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_bronze.png?raw=true" alt="theory layer" width="600">
+</a>
+
+<br>
+<br>
+
+**Part 2 - coding**
+
 <a href="https://youtu.be/XUnsAc4nQHs" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/databricks/medallion_bronze.png?raw=true" alt="bronze layer" width="600">
 </a>
