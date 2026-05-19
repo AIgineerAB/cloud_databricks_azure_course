@@ -8,10 +8,8 @@
 
 **Part 2 - dimensional modelling with dbdiagram**
 
-TODO: video
-
-<a href="" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/databricks/dimensional_modeling_dbdiagram.png?raw=true" alt="dimensional modeling with dbdiagram" width="600">
+<a href="https://youtu.be/OYemdWW39Ik" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/dimensional_modeling.png?raw=true" alt="dimensional modeling with dbdiagram" width="600">
 </a>
 
 
