@@ -15,6 +15,8 @@
   <img src="https://github.com/kokchun/assets/blob/main/databricks/dimensional_modeling.png?raw=true" alt="dimensional modeling with dbdiagram" width="600">
 </a>
 
+<br>
+<br>
 
 **Part 3 - building the gold layer in databricks**
 
