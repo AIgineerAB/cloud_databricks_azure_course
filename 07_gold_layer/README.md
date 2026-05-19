@@ -6,6 +6,9 @@
   <img src="https://github.com/kokchun/assets/blob/main/data_warehouse/star_schema_theory.png?raw=true" alt="dimensional modeling" width="600">
 </a>
 
+<br>
+<br>
+
 **Part 2 - dimensional modelling with dbdiagram**
 
 <a href="https://youtu.be/OYemdWW39Ik" target="_blank">
