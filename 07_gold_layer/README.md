@@ -20,10 +20,15 @@
 
 **Part 3 - building the gold layer in databricks**
 
-TODO: video
+<a href="https://youtu.be/_Ylhp_dk7WQ" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/gold_layer.png?raw=true" alt="gold layer" width="600">
+</a>
 
 
 
-TODO: code 
+
+
+
+
 
 
