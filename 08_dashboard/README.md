@@ -1,13 +1,9 @@
 # Dashboard
 
-## TODO video 
-## TODO code
 
-- build dashboard in databricks
-- deploy the dashboard
-- also show export to power bi 
-
-
+<a href="https://youtu.be/OFgDhBTiZao" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/databricks/dashboard.png?raw=true" alt="dimensional modeling" width="600">
+</a>
 
 
 
