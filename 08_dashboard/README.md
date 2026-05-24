@@ -9,3 +9,8 @@
 
 
 ## Read more 👓
+
+Databricks documentation
+- [dashboard concepts](https://docs.databricks.com/aws/en/dashboards/concepts)
+- [create a dashboard](https://docs.databricks.com/aws/en/dashboards/tutorials/create-dashboard)
+- [dashboard parameters](https://docs.databricks.com/aws/en/dashboards/manage/filters/parameters)
