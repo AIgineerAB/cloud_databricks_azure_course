@@ -23,7 +23,7 @@ Prerequisites for this course are:
 
 **part 2 - Azure**
 
-| **Week** | **Content**                              | **Lectures** | **Exercise** |
-| -------- | ---------------------------------------- | ------------ | ------------ |
-| 5        | Azure setup, dockerization, deployment   | 11-13        | lab          |
-| 6        | infrastructure as code (IaC) - terraform | 15-17        | lab          |
+| **Week** | **Content**                                                                      | **Lectures** | **Exercise** |
+| -------- | -------------------------------------------------------------------------------- | ------------ | ------------ |
+| 5        | Azure setup, dockerization, deployment, infrastructure as code (IaC) - terraform | 11-15        | lab          |
+| 6        | terraform deploy docker, cosmos db                                               | 16-17        | lab          |
