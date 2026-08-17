@@ -23,7 +23,9 @@ For learning fundamentals of docker see a2_docker_fundamentals and a3_docker_com
 </a>
 
 
-uv commands ised
+## Setup uv workspaces
+
+uv commands used
 
 ```bash
 uv init --no-package --python 3.13 
@@ -33,6 +35,20 @@ uv init --package frontend
 
 uv sync --all-packages
 ```
+
+## Deploy docker containers
+
+Create azure container registry and then deploy the docker containers to Azure container registry: 
+
+```bash
+# use docker to login to acr
+docker login <login_server>
+
+docker compose build 
+
+docker compose push
+```
+
 
 ## Read more
 

@@ -1,0 +1,22 @@
+services:
+  backend:
+    container_name: backend
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: dockerfiles/backend.dockerfile
+    ports:
+      - "8000:8000"
+    image: pokemonregistry314-dbfkhhb2g3eyeybj.azurecr.io/backend:v1
+  
+  frontend:
+    container_name: frontend
+    platform: linux/amd64
+    build:
+      context: .
+      dockerfile: dockerfiles/frontend.dockerfile
+    ports:
+      - "8501:8501"
+    environment:
+      BACKEND_URL: http://backend:8000
+    image: pokemonregistry314-dbfkhhb2g3eyeybj.azurecr.io/frontend:v2
