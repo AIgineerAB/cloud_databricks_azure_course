@@ -4,10 +4,18 @@
 <img src="https://github.com/kokchun/assets/blob/main/terraform/.png?raw=true" alt="deploy BI dashboard" width="600">
 </a>
 
-Go into the [official documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest) and add azurerm provider to your terraform configuration, i.e. .tf file.
 
-Documentation on different resources in terraform
+## Deployment process
 
-- [azure_rm_storage account](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/storage_account)
-- [azurerm_storage_container](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/storage_container)
-- [azurerm_storage_blob](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/storage_blob)
+Terraform is used to setup and deploy the infrastructure with
+- azure container registry 
+- azure container app
+- azure app services 
+
+Then we create a bash script called deploy_infra.sh that will orchestrate the infrastructure deployment as well as building and pushing images to azure container registry. Afterwards comes final manual steps to connect container app to backend image and app services to frontend image. Also in frontend we need to add the environment variable `BACKEND_URL` manually. 
+
+The idea with this setup is that infrastructure is deployed using terraform, then manual setup followed by eventual CI/CD using github actions which will enable deployment when pushing to github. 
+
+
+
+Go into the [official documentation](https://registry.terraform.io/providers/hashicorp/azurerm/latest) to read about the different resources that we are creating

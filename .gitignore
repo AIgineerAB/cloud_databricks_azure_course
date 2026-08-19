@@ -209,3 +209,12 @@ __marimo__/
 
 .DS_Store
 .vscode
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+crash.log
+.terraform
