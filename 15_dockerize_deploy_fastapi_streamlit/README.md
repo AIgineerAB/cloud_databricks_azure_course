@@ -2,11 +2,10 @@
 
 For learning fundamentals of docker see a2_docker_fundamentals and a3_docker_compose_fundamentals.
 
-## TODO video
 
 **part 1 - uv workspaces and fastapi backend and streamlit frontend**
 
-<a href="" target="_blank">
+<a href="https://youtu.be/CzeKRM2CYiM" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/azure/fullstack_deploy1.png?raw=true" alt="uv workspaces" width="600">
 </a>
 <br>
@@ -21,6 +20,7 @@ For learning fundamentals of docker see a2_docker_fundamentals and a3_docker_com
 <br>
 <br>
 
+## TODO video
 **part 3 - deploy to azure**
 
 <a href="" target="_blank">
