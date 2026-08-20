@@ -9,12 +9,17 @@ For learning fundamentals of docker see a2_docker_fundamentals and a3_docker_com
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/azure/fullstack_deploy1.png?raw=true" alt="uv workspaces" width="600">
 </a>
+<br>
+<br>
 
 **part 2 - dockerize backend and frontend**
 
 <a href="https://youtu.be/mxfAiMYzF0s" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/azure/fullstack_deploy2.png?raw=true" alt="dockerization backend and frontend" width="600">
 </a>
+
+<br>
+<br>
 
 **part 3 - deploy to azure**
 
