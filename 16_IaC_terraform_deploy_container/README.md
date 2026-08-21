@@ -1,6 +1,6 @@
 # Deploy docker containers with Terraform
 
-<a href="" target="_blank">
+<a href="https://youtu.be/8C-Gh6BAWe4" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/azure/fullstack_deploy4.png?raw=true" alt="deploy to azure with terraform" width="600">
 </a>
 
