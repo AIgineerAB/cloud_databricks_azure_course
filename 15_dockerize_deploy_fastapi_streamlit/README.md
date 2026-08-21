@@ -20,10 +20,9 @@ For learning fundamentals of docker see a2_docker_fundamentals and a3_docker_com
 <br>
 <br>
 
-## TODO video
 **part 3 - deploy to azure**
 
-<a href="" target="_blank">
+<a href="https://youtu.be/qeVT9id3eAo" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/azure/fullstack_deploy3.png?raw=true" alt="deploy to azure" width="600">
 </a>
 
