@@ -15,12 +15,11 @@ resource "azurerm_storage_container" "csv_container" {
 }
 
 resource "azurerm_storage_blob" "upload_csv" {
-  for_each               = fileset("data", "*.csv")
-  name                   = each.value
-  storage_account_name   = azurerm_storage_account.my_storage.name
-  storage_container_name = azurerm_storage_container.csv_container.name
-  type                   = "Block"
-  source                 = "data/${each.value}"
+  for_each             = fileset("data", "*.csv")
+  name                 = each.value
+  storage_container_id = azurerm_storage_container.csv_container.id
+  type                 = "Block"
+  source               = "data/${each.value}"
 }
 # resource "azurerm_storage_blob" "upload_csv" {
 #   name                   = "Totalt.csv"
